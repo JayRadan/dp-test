@@ -1,0 +1,18 @@
+.list{
+margin-top: 1rem;
+    .listItem{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 1rem;
+        border-radius: 5px;
+        padding: 1rem;
+&:hover{
+    
+    background-color:#e9ecef ;
+}
+        
+    }
+
+
+}
